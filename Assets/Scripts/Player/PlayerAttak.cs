@@ -3,8 +3,10 @@ using UnityEngine;
 
 public class PlayerAttak : PlayerAComponent
 {
+    [SerializeField] private LayerMask _botMask;
     [SerializeField] private float _attack1CoolDownTime;
     [SerializeField] private float _attack2CoolDownTime;
+    [SerializeField] private float _attackRange;
     [SerializeField] private AudioSource _clipAttack1;
     [SerializeField] private AudioSource _clipAttack2;
 
@@ -42,6 +44,11 @@ public class PlayerAttak : PlayerAComponent
             StartCoroutine(AttackCoolDown2());
         }
     }
+    protected void OnAttack(int attackDamage)
+    {
+        Collider2D collider2D = Physics2D.OverlapCircle(transform.position, _attackRange, _botMask);
+        if (collider2D.TryGetComponent(out IDamageBot idamageBot)) { idamageBot.GetDamageBot(attackDamage); }
+    }
     private IEnumerator AttackCoolDown1()
     {
         yield return new WaitForSeconds(_attack1CoolDownTime);
@@ -52,4 +59,11 @@ public class PlayerAttak : PlayerAComponent
         yield return new WaitForSeconds(_attack2CoolDownTime);
         _isAttack2 = true;
     }
+#if UNITY_EDITOR
+    protected void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, _attackRange);
+    }
+#endif
 }

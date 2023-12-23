@@ -6,6 +6,7 @@ public class PlayerDeath : PlayerAComponent, IDamage
 {
     [SerializeField] private int _hpPlayer;
     [SerializeField] private AudioSource _playerDead;
+    [SerializeField] private AudioSource _playerOnDamage;
 
     private PlayerController _playerController;
     private PlayerAttak _playerAttak;
@@ -19,7 +20,7 @@ public class PlayerDeath : PlayerAComponent, IDamage
     public void GetDamage(int damage)
     {
         _hpPlayer -= damage;
-
+        _playerOnDamage.Play();
         if (_hpPlayer <= 0)
         {
             _playerDead.Play();
