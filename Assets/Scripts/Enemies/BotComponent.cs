@@ -12,28 +12,53 @@ public abstract class BotComponent : MonoBehaviour, IDamageBot
     [SerializeField] protected int _attackDamage;
     [SerializeField] protected float _attackRangeBot;
     [SerializeField] protected float _moveRangeBot;
+    [SerializeField] protected GameObject _prefabDamageEffect;
     [SerializeField] protected AudioSource _clipAttack;
     [SerializeField] protected AudioSource _clipDead;
     [SerializeField] protected AudioSource _clipOnDamage;
+
+    public int HpBot { get { return _hpBot; } }
 
     protected bool _isRecharged;
     protected Animator _animatorBot;
     protected SpriteRenderer _rendererBot;
     protected PlayerAComponent _player;
-    protected virtual void Awake()
+    protected  void Awake()
     {
         _isRecharged = true;
     }
-    protected virtual void Start()
+    protected  void Start()
     {
         _animatorBot = GetComponent<Animator>();
         _rendererBot = GetComponent<SpriteRenderer>();
         _player = FindObjectOfType<PlayerAComponent>();
     }
-    protected virtual void Update()
+    protected  void Update()
     {
         _dis = Vector2.Distance(_player.transform.position, transform.position);
         FlipBot();
+        MovementBot();
+        AttackBot();
+    }
+    protected void MovementBot()
+    {
+        if (_dis <= _moveRangeBot && _dis >= _attackRangeBot)
+        {
+            _animatorBot.SetBool("RunBot", true);
+            transform.position = Vector2.MoveTowards(transform.position, _player.transform.position, _speedBot * Time.deltaTime);
+        }
+        else { _animatorBot.SetBool("RunBot", false); }
+    }
+    protected void AttackBot()
+    {
+        if (_dis <= _attackRangeBot && _isRecharged)
+        {
+            _animatorBot.SetTrigger("AttackBot");
+            _clipAttack.Play();
+            _isRecharged = false;
+
+            StartCoroutine(AttackCoolDown());
+        }
     }
     protected void FlipBot()
     {
@@ -43,13 +68,15 @@ public abstract class BotComponent : MonoBehaviour, IDamageBot
     protected void OnAttackBot()
     {
         Collider2D collider2D = Physics2D.OverlapCircle(transform.position, _attackRangeBot, _playerMask);
-        if (collider2D.TryGetComponent(out IDamage idamage)) { idamage.GetDamage(_attackDamage); }
+        if (collider2D == null) { return; }
+        else if (collider2D.TryGetComponent(out IDamage idamage)) { idamage.GetDamage(_attackDamage); }
     }
     public void GetDamageBot(int damage)
     {
         _hpBot -= damage;
-        _clipOnDamage.Play();
-        if(_hpBot <= 0)
+        if (_hpBot > 0) { _clipOnDamage.Play(); }
+        Instantiate(_prefabDamageEffect, transform.position, Quaternion.identity);
+        if (_hpBot <= 0)
         {
             _clipDead.Play();
             _animatorBot.SetTrigger("DeathBot");

@@ -1,4 +1,5 @@
 using System.Collections;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -7,6 +8,8 @@ public class PlayerDeath : PlayerAComponent, IDamage
     [SerializeField] private int _hpPlayer;
     [SerializeField] private AudioSource _playerDead;
     [SerializeField] private AudioSource _playerOnDamage;
+    [SerializeField] private TextMeshProUGUI _hpPlayerText;
+    [SerializeField] private GameObject _prefabBloom;
 
     private PlayerController _playerController;
     private PlayerAttak _playerAttak;
@@ -17,10 +20,15 @@ public class PlayerDeath : PlayerAComponent, IDamage
         _playerController = GetComponent<PlayerController>();
         _playerAttak = GetComponent<PlayerAttak>();
     }
+    private void Update()
+    {
+        _hpPlayerText.text = _hpPlayer.ToString();
+    }
     public void GetDamage(int damage)
     {
         _hpPlayer -= damage;
         _playerOnDamage.Play();
+        Instantiate(_prefabBloom, transform.position, Quaternion.identity);
         if (_hpPlayer <= 0)
         {
             _playerDead.Play();

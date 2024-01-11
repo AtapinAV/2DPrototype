@@ -1,0 +1,5710 @@
+fileFormatVersion: 2
+guid: 54e1d31a6b43cb24bba9887dc5f09522
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_0
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 751
+        width: 25
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244583fcaada5664bb61a275483fbb05
+      internalID: -383766773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_1
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 800
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813bbafd250823744ba9f94d489bf995
+      internalID: 816436314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_2
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 801
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b28114c578277a44accd4ce27c2bfa3
+      internalID: -546044899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_3
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 815
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f1648cf8be4dc4fb9e63afeaad70eb
+      internalID: 841275149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_4
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 814
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1e6fe055d3024aaaa014f0f27b087
+      internalID: -1252291506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_5
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 815
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3321c14673ea1d94b8532fb7be847e2a
+      internalID: -1501864124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_6
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 814
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a7adcd0dc5dde46918c365438aeaea
+      internalID: -1906886730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 752
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99edbf1014b5eb40ac0d508261aa37e
+      internalID: 1555298873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 765
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9beba3c0261584daba29e130c49ae6
+      internalID: -1034195935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 771
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d422c4e5bf72442ba75f1cfa522751
+      internalID: 733961074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 781
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bea1d2344749240aa08cca1eac03d4
+      internalID: -1000808165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 793
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20780ffa5ed34464584655dae92c9a09
+      internalID: -188433952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 782
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475af3745961215498a34897c1b4d8f7
+      internalID: -687397576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 784
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5aa137b4b5a2a44a899aaeed4c47f8
+      internalID: 163484571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_14
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 790
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dd837546f05974496cb4110e606267
+      internalID: -285842032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_15
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 781
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff46cef98260524492662fca7162132
+      internalID: -1851790582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_16
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 782
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e17a08177b9bf429b2ebebac987ded
+      internalID: 2094735287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_17
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 772
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c02f065d46afe645ab27106001dab73
+      internalID: -442883684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_18
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 791
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ee5036e9c81f5499a2b5ccdb81225b
+      internalID: -446078398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 791
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdddf2631f5fb544a3cab3ebafd6187
+      internalID: 1976362823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_20
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 785
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ddc7af5fa1e8a4c970f65869028d25
+      internalID: -545315927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_21
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 791
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4892f26c561944d8918fc2fe6b1381
+      internalID: -668049236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_22
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 785
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bdad0007144874090266eaf0c32abb
+      internalID: 735761685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_23
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 746
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7da578265dab94bac7d72e0ceccfcc
+      internalID: 322490554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_24
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 766
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c521a33fd30a94bbec4b924e4f152d
+      internalID: -1541594520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_25
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 778
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cca35a808f99d43b1ae431de6e1769
+      internalID: 820902951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_26
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 765
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12825fd07b70fc844beb79e380d6662d
+      internalID: -2115338458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 752
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788df5d6bdd5c5b4d9e57a552bfe0155
+      internalID: 1780408139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_28
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 752
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56227b7ac9b90094fa0ad50a65cf3b16
+      internalID: 878605032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_29
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 772
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4850a8cfd6e30a44e9bd7c8bf825b2eb
+      internalID: -981768368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 752
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c8013683dc5094ca3d269b55864b95
+      internalID: -1167332437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_31
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 751
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78156197d553f7043863192117502793
+      internalID: 629327512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_32
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 760
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c325471332d760408eb47f275527399
+      internalID: -1731781803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_33
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 752
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd949231ca44c04bb490352f49753d6
+      internalID: 238487077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 759
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb6bc377bdb1f45bf11673f60bf287
+      internalID: -686268142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_35
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 753
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c26044447459fe4ca50a7d3f056d1b8
+      internalID: -1897397699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_36
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 753
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8c595e9c33d0d49a79eaa67e776cc5
+      internalID: -1792378292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_37
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 754
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3931bf0874e811b4aa5bd0bce7f1a4f0
+      internalID: -1546328084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_38
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 759
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ac3ec2e50d9234cbe6358bcab1d147
+      internalID: 2078155140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_39
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 761
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ddb687f613064d977200c86a4e72b
+      internalID: -302350966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_40
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 753
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863e8e7257432b94eaedab370c1eec32
+      internalID: 814037131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_41
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 752
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247510e65002e7f4bb17f9120131a110
+      internalID: -617936936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_42
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 753
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72cc39ab8db3d540bfc436ae0bcf6af
+      internalID: -100736036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 656
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d21366f1913c245b04be7e65331714
+      internalID: -1098287547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_44
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 658
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d85a4f1c62cd34887beda5de7a8b3b
+      internalID: 817596403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 658
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a2359f51d3a8b408fbcfee8d3fb8fe
+      internalID: 1070564135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_46
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 576
+        width: 80
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7552c2f86a5d2534cacc1fe2688d6515
+      internalID: 255967751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 683
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e2730a06ee9d418baa87b75cddce7
+      internalID: -384584276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_48
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 723
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8216162da694348a8a77a9a9530765
+      internalID: -1612008045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_49
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 712
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6257efb9cb8acc3409744f75f62fc67e
+      internalID: 514293533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_50
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 698
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e195027a8fb414a88aaf5fb3ab7c68
+      internalID: -518549630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_51
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 665
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c94748475ea98449bd068b19d469f1
+      internalID: -1755996584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_52
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 696
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100aad68b997cd342a5366417865b4c9
+      internalID: -1218719733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_53
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 660
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92990d78a8b1a1c448f13220a4d2f4eb
+      internalID: 898579297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_54
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 701
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a2d16e10fde73458180fef55471e7d
+      internalID: -2064590474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_55
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 684
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a35eff8b2be1c4c999d49a597fc4e4
+      internalID: 1458773972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_56
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 665
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b27bd8f563736f41b57fef031da8b89
+      internalID: -308555911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 566
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4266f3ae5fdd8f249b751ae68775db7d
+      internalID: -1276098820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 609
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536d4f95982021f43af32af2145e609b
+      internalID: -435562370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 585
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f662faed059246a4c9cdd01756e9c3cd
+      internalID: 1012258218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 561
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75647950b06a4624cb8eee76d0137cf1
+      internalID: 148492065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_61
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 590
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3189ecd50bfc1d444983d42de0d97db6
+      internalID: -256040883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_62
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 569
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e515db220198f04faf73ffb4068422d
+      internalID: 204106188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_63
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 574
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d898554e7f356b4a98d61de68a8e870
+      internalID: -1752192477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_64
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 576
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3216e7cc4466a9b49a6402fba05b3cb5
+      internalID: 702728636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_65
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 591
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ebc5d86a14b824a9b702d89c465108
+      internalID: 97173136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_66
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 592
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc71d2d457922f54383248cf197cb7dd
+      internalID: 633145231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_67
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 591
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7060ad4c7d9f24f4d923aeafad25dc01
+      internalID: 1880356951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_68
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 589
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb65f0d8e74d842aca4406a9acead5
+      internalID: -1140209101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_69
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 592
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1188ed205a59246bfce695e386440e
+      internalID: 1150876131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_70
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 594
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e11b53518eff54cba3ae511d1fed1b
+      internalID: 2061102036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_71
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 581
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea6ac7bc7a2e074283bf3cb4c255bff
+      internalID: 471452505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_72
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 576
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b578af1515361c441a473ad43f7114e4
+      internalID: -1395733992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_73
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 519
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7ebdcdabca1ba4d811362e6f4dbfdf
+      internalID: -1421262609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_74
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 576
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7179a7ebeb25a4c449104fdd14d27701
+      internalID: -1027302016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_75
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 561
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da59ee3051b8ad0479a969d622d7910b
+      internalID: 1288758365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 511
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2f5a77f5396084e898838a19b8e2e2
+      internalID: -304051519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_77
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 534
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af111b5fc005374cb08c2e1c7ab956c
+      internalID: 1064169912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_78
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 526
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa5c93169a64094eb646b5dd6d2a529
+      internalID: 1452794460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 539
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8db62d7e067dc947abe7c757968f864
+      internalID: 810083428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_80
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 542
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1f2db59f890d468993738a3c5198b
+      internalID: -1961630697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_81
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 528
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29369b5064a65464da4785c69521d8f1
+      internalID: 574644612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_82
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 537
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc67aee7525a624c80de62335c4e106
+      internalID: -1340773509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_83
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 472
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d983c0e7e7d1bf8459ec6d2270d887c6
+      internalID: -2086343695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_84
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 519
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69c682b94fe6c46b21edf47be49a99
+      internalID: -358594570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_85
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 535
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a4ce7446fa874b961248c8a6b4bf0
+      internalID: -218057577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_86
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 521
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa37fb02164c41441892cd77373d7174
+      internalID: -1284298964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_87
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 474
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e081253754c3aa4facb3502944aaaad
+      internalID: 324567517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_88
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 530
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2173547c1f2e42041b672dcfada539a1
+      internalID: -873561268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_89
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 480
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f450369cd303724e9a06ff0667c4832
+      internalID: -1846869348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_90
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 513
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f179c0bb93606834fadd84eadeeeab02
+      internalID: 1178680132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_91
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 515
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4cca40a35ee94cbc502d7e0397c91
+      internalID: -2013632377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_92
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 516
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d18524e9a82a254db27e5bbeb94d067
+      internalID: 1483797062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_93
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 500
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5784126bafd019543aceb49a6a2b0dba
+      internalID: -1390878310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_94
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 481
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4064b5bae7fe5934d81980d5c0a4e5c1
+      internalID: -146812785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_95
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 480
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dfc94392eac8b488f7993c5d14070b
+      internalID: 359926887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_96
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 487
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56c7640da676694b88dc13a90c45c45
+      internalID: -665533366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_97
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 479
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90a31a155cd48149aa35dbfa13bea7e
+      internalID: 2145567388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_98
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 490
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99407f62ce92269429353771cee43a97
+      internalID: -1535761225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_99
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 479
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbe982556a53994fa0e67b66fa3307d
+      internalID: 1528890965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_100
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 480
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfa79ba0661b7741ba950c6e3279b02
+      internalID: 1603853523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_101
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 378
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021b1e3ae79364b4ab39f03d996e8fcb
+      internalID: -1978290091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_102
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 437
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc0d1fe43ff4f8498a9bbf2e3f5f16b
+      internalID: 156806746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_103
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 411
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62b9bd5331121548ae74392ada2db34
+      internalID: 1185283189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_104
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 425
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11b19f56fa2fa840bd507d068dd8ce6
+      internalID: -1179372164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_105
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 410
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dd3e84317e11647b557a5fa4566abf
+      internalID: 948729001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_106
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 422
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e65fdcf48cce489042ba03c720081
+      internalID: -589043265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_107
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d06d46d818d5cd428f80ebc974e2bec
+      internalID: -1492342639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_108
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 438
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d36223bdd380e4cbdacecaa6b03fae
+      internalID: 1906568663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_109
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 394
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718599881e34fe04c9f31ae2378d63bc
+      internalID: 289061557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_110
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 426
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4c6686b4954b34d94361c7a3a793df
+      internalID: -896383395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_111
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 389
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e692a87298954346856e24f66d4d136
+      internalID: 1507832720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_112
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 432
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768c79b3d69889d46a42c23933eaa522
+      internalID: -1905330901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_113
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 387
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935aa7f41d4d91547a7512c98b2595ad
+      internalID: 805078175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_114
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 385
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f017d875fd6892241b69331b1ab704cf
+      internalID: -1639660904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_115
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 396
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbf8c82a91dbce47b61b34f9f2c0a83
+      internalID: -1861409882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_116
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 410
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f878bd5c53da0d9428013ed5d476957c
+      internalID: 1907223425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_117
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 389
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecc0622f0eea7642bef1e105bd97bb9
+      internalID: -1434911128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_118
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 395
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9d85cd13d20ec42adc986ec73b56af
+      internalID: 459222475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_119
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 398
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfdcd3ad39ee2e46a3604b6213a6d21
+      internalID: 2002921098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_120
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba3a20701e39448840698c25551fec
+      internalID: -1722665541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_121
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 395
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13b15b2d9cafe94db606f14b80f8ca1
+      internalID: 1581779632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_122
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 385
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d4b91f48aafbb478613ce372b9f867
+      internalID: -1774179920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_123
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 386
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400456f90cd3aea45b2ce47f299ebce1
+      internalID: 804612751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_124
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 386
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e07332dc99c7a44b30d86f2f74c94b
+      internalID: -1299312909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_125
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 377
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907f90feaeddb59409599e71f4430beb
+      internalID: 807512936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_126
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 383
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e23a2ce6a727742ad43501fc86ad63
+      internalID: 1119006959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_127
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 376
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b91fa622aa5a524c9b5129c5df65fca
+      internalID: 981654714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_128
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 381
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed86f967068d41d45bc05f770093c668
+      internalID: 1846569503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_129
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 339
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c0c857132c04c4f99d38216be24665
+      internalID: 541109953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_130
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 338
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044551eed2f66ee40b2af1989dcc9658
+      internalID: 65190204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_131
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 318
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cdf8faa5f72914c8ecb6716434f3af
+      internalID: 2038961690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_132
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 339
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf8ece8c4710294db62dee7aadc850c
+      internalID: -1320012029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_133
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 341
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e5223c5a5ce9b478b5e0ad2b7faeea
+      internalID: 712485818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_134
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 297
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e16b45674b04e4c8e9913c43c3b3aa
+      internalID: 24735726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_135
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 288
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cac47b93ad0dc1419c24e5f7d70cfb5
+      internalID: -201480987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_136
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 305
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6109b876ac4b1ce428463e9c7d0620a0
+      internalID: -1103915431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_137
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 301
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bc197740925ba47be3efdb3b0a70a9
+      internalID: -1688760224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_138
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 305
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2a6d6642fed5a4a8c99471455c51ae
+      internalID: -606186545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_139
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 282
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b0ab5c6414be84fa9f03a3ec05aad0
+      internalID: -874811114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_140
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 316
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23f0d30172920e438203b6478d93870
+      internalID: -1607741690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_141
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 328
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc7e858189d1ce439b4931398046fe3
+      internalID: 1478541391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_142
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 299
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717db1238825665438aa7ec68de44268
+      internalID: 457382188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_143
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 316
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e3cd2d81b9d4e4b8bc161997f7c8c2
+      internalID: -1818738200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_144
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 316
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d27ee9b837716e488acd3030660458a
+      internalID: 682128061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_145
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 312
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b334806858a935e4183a775ed33219fe
+      internalID: 1574855722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_146
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 310
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23cfd4074249434d8eda3140800daba
+      internalID: -891393520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_147
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 316
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2da2fc99fdc29498a169aa9214a4f9
+      internalID: 1553442014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_148
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 319
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c721b25a38af4e4c9ea9f4518e9d346
+      internalID: 161810528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_149
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 304
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335e4e0d9d3abbd47852b7b7f1422ec7
+      internalID: -868808542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_150
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c13fd3949480647b6baa1d3d722d5e
+      internalID: -1526920132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_151
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 288
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39886aa352c325d4aad3318ea015d042
+      internalID: -181381110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_152
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 293
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe32754a0418e8a4dabff7485e78dfdc
+      internalID: -287053497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_153
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 295
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d661f39024bd0e4428727b7fcc49f364
+      internalID: 2056997925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_154
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 298
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b6af96e97691341850705d82c877ad
+      internalID: 1554577510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_155
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 297
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca19035d46ec6b042855efe089bf66a6
+      internalID: -784531286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_156
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 284
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d67c0bd5f13b794bb60fe774f73ee23
+      internalID: -557554195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_157
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 283
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb887c3798a353842a6fda11b003c2e7
+      internalID: 1913929127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_158
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 283
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a01bdbc632784b8e15de04268b236
+      internalID: 50932696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_159
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 284
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5597156043077604c905a39b9ca824a4
+      internalID: 581648080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_160
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 281
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484ee1fb872adeb43a810d09e7fc9694
+      internalID: -1012691443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_161
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 187
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963fe7f643b30d54fadeede9a9af46f0
+      internalID: -1206550592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_162
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 200
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db2b5096e28309419f830d3a5adbb69
+      internalID: -1518362300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_163
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 196
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53522fe408a5c9b4bb017d3224286e9e
+      internalID: -37929908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_164
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 195
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71371aff2a53884b871f0ea4d04278b
+      internalID: -992138638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_165
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 246
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e31141f80da374e89cf3a7b21cb57a
+      internalID: -969327345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_166
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 195
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb6ce1ae84013d429aa74f71905e107
+      internalID: 1887449983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_167
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 251
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05422cff370b95468aa7e857c397add
+      internalID: -745368310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_168
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 260
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e6ca5abc8b2a43af5173e63bab984
+      internalID: -2008294808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_169
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 260
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2707cbdc0e02d84fa942f20213ba9f9
+      internalID: 1251944759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_170
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 202
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d435db5fa04d37b4495f8c4910cedea5
+      internalID: 1013854070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_171
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 262
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462c39ec352d0324284ed9fc0472e464
+      internalID: 1474539781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_172
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 242
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443c10dfe6ecfa74db8d51cbc26b487d
+      internalID: 1605879439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_173
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 246
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db41f9e3eb87744993a1774dfe2f0c3
+      internalID: 74623809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_174
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 254
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e398d459b248b458bb8af286ed653f
+      internalID: 175576021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_175
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 213
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621a9f92c7b51424180bfcbae30562e3
+      internalID: -107486639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_176
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 246
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdab1562f381807468fda4c7d0eba049
+      internalID: 17426096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_177
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 236
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f67ebe48da77854fad917a1f034922e
+      internalID: -1377158287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_178
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 247
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a4bae69938c97489ced71ff8c01590
+      internalID: -118778439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_179
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 228
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ad018291af0ef44a562aab941ff09f
+      internalID: 1882707729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_180
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 238
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f366ea62a887445be6de676c371218
+      internalID: -1393699300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_181
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 233
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9212ea681d83a0348bb0a7542bc7cc0f
+      internalID: -898246930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_182
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 222
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4255ac1ce5a4f474da75c99968165d2c
+      internalID: 2033560549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_183
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 227
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f84598be766444acbc18fc0d13b67
+      internalID: 1239343727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_184
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 233
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c989d214b39ccb4db85811b2cdef339
+      internalID: 240178119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_185
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a04a3f106d652f4aaa023bb9fc506b7
+      internalID: 180491925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_186
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 206
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d89df9a280dfd4297ae03016b6ffc1
+      internalID: 585672731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_187
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 223
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0074b489b6e1b6c46ad5f445ad677f72
+      internalID: -561543441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_188
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 209
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3029ec964e7a7740bf5166597b09360
+      internalID: 635459177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_189
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 195
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbf7fae499da164d8dd029b965d03a2
+      internalID: -1280946320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_190
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 195
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89b62fcc25d87c45858ab27497260a2
+      internalID: 727616974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_191
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 204
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f2cde3c7d063b458a5bd20c5689cc3
+      internalID: 152993628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_192
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 212
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254ae99fda81e547ad8d95f9d17dca0
+      internalID: -2060156935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_193
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 195
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8861fc7185010654496577927eb44bc7
+      internalID: -1242971405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_194
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 203
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b4175f4f3de2f48a6095e818da6a3e
+      internalID: 1572844388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_195
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 195
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a53d65506217374d8480d2bbbc357d3
+      internalID: -1451670353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_196
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 203
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3a9e7c029fccd4aa390cf89bb5817b
+      internalID: -1017556871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_197
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 197
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe053ad3a2ffb348ade132008bbe9fd
+      internalID: -286825702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_198
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 204
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f316f6b8dfaa04eb38e6b8ca7f5c2f
+      internalID: -78064063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_199
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 192
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a07f6367fef364199987ef996c1019
+      internalID: -1848732024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_200
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 195
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d684932aca1cc4aa7921617f1de96a
+      internalID: 2120447766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_201
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 195
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dec90236ad626499c1b89bd8c9a4b1
+      internalID: 2071859343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_202
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 198
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1edafb48713f4fa173d87b50837a9
+      internalID: -581473161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_203
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 110
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d44659c82da28d47984a3925ad37489
+      internalID: -1903672785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_204
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 116
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c84450e20df844baba4377e5b206ce
+      internalID: 1862987771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_205
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 164
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3121d9649b3ad46b8854d7dd38efa3
+      internalID: 209855782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_206
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 105
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0536294df5149b04e8ef37e420ed6dfd
+      internalID: -1223956437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_207
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 107
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450741cb1208ca84fa6c1a7c98510cc8
+      internalID: -1781276609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_208
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 117
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd101eddc062924438595299fde6517b
+      internalID: 1709525144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_209
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 115
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266954b825a7bf64590dfdfbd996f4d6
+      internalID: -1121091996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_210
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 131
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e46f5a3e7c67478ffb69af79d253a
+      internalID: 922896784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_211
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71760d2f00d41144c846ef894b732ac6
+      internalID: -567335053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_212
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 139
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7ace99f7af4ca45aab870a87925ef9
+      internalID: -900048377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_213
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 116
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4ac074379f70a4c92267a57968e443
+      internalID: -1826293479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_214
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 135
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8888d12ec221ac408644454431f7ba6
+      internalID: -2086860255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_215
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 135
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc3c77206895e34e9a20c2453383d52
+      internalID: 216238170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_216
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 107
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d50e647cbfecf349839044901e6f7e4
+      internalID: -390564791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_217
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 128
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458fa1f819e52544199eea76e680b280
+      internalID: -1809441618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_218
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 131
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0fea499760d6440831695f61749179
+      internalID: -1894462752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_219
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 118
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d147ca0b96c3d4ba99c66b80287efa
+      internalID: -441695151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_220
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 117
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae553d3af79b8041b0ca29b3d1e9256
+      internalID: 777231712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_221
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 124
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea5bc89e0b39984fb36b09f0fa4eaac
+      internalID: 841468772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_222
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 118
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef13311f9a5b544693f1e185e5c6633
+      internalID: -1753996022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_223
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 124
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9636ecf093d89a348a01f058c5c82d0a
+      internalID: 1600197400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_224
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 118
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05f946f142e24e47b6505d36fa6d975
+      internalID: -176298107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_225
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 122
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6fde0c1b9814f45aa9510b0ede1d43
+      internalID: 1994797748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_226
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 108
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b867f7b17d984a8dabe37367af5f6
+      internalID: -205313866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_227
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 11
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd70db0637b332f47ada5d2bf377b4f2
+      internalID: -1798629276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_228
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b7619ccaa314e469899f901ce056de
+      internalID: -1688220768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_229
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 20
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5f40a2255a4cc4fb8908e5b20b02aa
+      internalID: -256884973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_230
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 72
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7273e4366236fe848a318d638751042a
+      internalID: 632045221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_231
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6634cc3303df3f4eb9cdbb262f0ba9a
+      internalID: 833813829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_232
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 7
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831ed56ce5857c64599472808a369585
+      internalID: -2036356169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_233
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de94b1361cf10b44a002fcd454e6e5c
+      internalID: -1904168868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_234
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 37
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40fbc4dccf55d0498c5a8173f926b5b
+      internalID: -1666317834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_235
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 53
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382b63c0b36b9cc4ea46ade61ef52a76
+      internalID: -1826269893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_236
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 55
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94d6c77f6c27de4e98aeb1e23686d91
+      internalID: -394668675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_237
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 20
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1129903dd1050d4ea10f9898efa4c6a
+      internalID: 200742348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_238
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 20
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1523d288c1446044897dfc10bb3fe1df
+      internalID: 337775786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_239
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 36
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f200fa15c632a7342a4712cd42702bd9
+      internalID: 208529737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_240
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 9
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c8960bbfe033d4992868dbd7b3b787
+      internalID: 1986595139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_241
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 10
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3408d9770b1e41149a01bbdbf478b92b
+      internalID: -464724715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_242
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 45
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4b9f192afb414dbf1b0841e8e8515
+      internalID: 1413189428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_243
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 45
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb73ffa65b074c346947d4bcb03b5a60
+      internalID: -927919642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_244
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6886eba2ed6066245aa06335b834052f
+      internalID: -603722758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_245
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 27
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f529867b2ea31724a8b2a9700834fa6f
+      internalID: -924316021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_246
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ddd054e90213448b5b899a50344166
+      internalID: 264239840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_247
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 9
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d0532e9e2068646bcdad63f34441bc
+      internalID: -2000783401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_248
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a665c5ac61d9d459b2a18bd6208c14
+      internalID: 1588844114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_249
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 19
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1daa6616d8d484e87eef135a6d32a3
+      internalID: 795790681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_250
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 19
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b799c4850982d384db3dc3ca224c2912
+      internalID: 1575461348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX Blood Batch 1_SpriteSheetPacked_251
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 11
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43677c8561e55114ca0137fb2ca89161
+      internalID: -695210068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VFX Blood Batch 1_SpriteSheetPacked_0: -383766773
+      VFX Blood Batch 1_SpriteSheetPacked_1: 816436314
+      VFX Blood Batch 1_SpriteSheetPacked_10: -1000808165
+      VFX Blood Batch 1_SpriteSheetPacked_100: 1603853523
+      VFX Blood Batch 1_SpriteSheetPacked_101: -1978290091
+      VFX Blood Batch 1_SpriteSheetPacked_102: 156806746
+      VFX Blood Batch 1_SpriteSheetPacked_103: 1185283189
+      VFX Blood Batch 1_SpriteSheetPacked_104: -1179372164
+      VFX Blood Batch 1_SpriteSheetPacked_105: 948729001
+      VFX Blood Batch 1_SpriteSheetPacked_106: -589043265
+      VFX Blood Batch 1_SpriteSheetPacked_107: -1492342639
+      VFX Blood Batch 1_SpriteSheetPacked_108: 1906568663
+      VFX Blood Batch 1_SpriteSheetPacked_109: 289061557
+      VFX Blood Batch 1_SpriteSheetPacked_11: -188433952
+      VFX Blood Batch 1_SpriteSheetPacked_110: -896383395
+      VFX Blood Batch 1_SpriteSheetPacked_111: 1507832720
+      VFX Blood Batch 1_SpriteSheetPacked_112: -1905330901
+      VFX Blood Batch 1_SpriteSheetPacked_113: 805078175
+      VFX Blood Batch 1_SpriteSheetPacked_114: -1639660904
+      VFX Blood Batch 1_SpriteSheetPacked_115: -1861409882
+      VFX Blood Batch 1_SpriteSheetPacked_116: 1907223425
+      VFX Blood Batch 1_SpriteSheetPacked_117: -1434911128
+      VFX Blood Batch 1_SpriteSheetPacked_118: 459222475
+      VFX Blood Batch 1_SpriteSheetPacked_119: 2002921098
+      VFX Blood Batch 1_SpriteSheetPacked_12: -687397576
+      VFX Blood Batch 1_SpriteSheetPacked_120: -1722665541
+      VFX Blood Batch 1_SpriteSheetPacked_121: 1581779632
+      VFX Blood Batch 1_SpriteSheetPacked_122: -1774179920
+      VFX Blood Batch 1_SpriteSheetPacked_123: 804612751
+      VFX Blood Batch 1_SpriteSheetPacked_124: -1299312909
+      VFX Blood Batch 1_SpriteSheetPacked_125: 807512936
+      VFX Blood Batch 1_SpriteSheetPacked_126: 1119006959
+      VFX Blood Batch 1_SpriteSheetPacked_127: 981654714
+      VFX Blood Batch 1_SpriteSheetPacked_128: 1846569503
+      VFX Blood Batch 1_SpriteSheetPacked_129: 541109953
+      VFX Blood Batch 1_SpriteSheetPacked_13: 163484571
+      VFX Blood Batch 1_SpriteSheetPacked_130: 65190204
+      VFX Blood Batch 1_SpriteSheetPacked_131: 2038961690
+      VFX Blood Batch 1_SpriteSheetPacked_132: -1320012029
+      VFX Blood Batch 1_SpriteSheetPacked_133: 712485818
+      VFX Blood Batch 1_SpriteSheetPacked_134: 24735726
+      VFX Blood Batch 1_SpriteSheetPacked_135: -201480987
+      VFX Blood Batch 1_SpriteSheetPacked_136: -1103915431
+      VFX Blood Batch 1_SpriteSheetPacked_137: -1688760224
+      VFX Blood Batch 1_SpriteSheetPacked_138: -606186545
+      VFX Blood Batch 1_SpriteSheetPacked_139: -874811114
+      VFX Blood Batch 1_SpriteSheetPacked_14: -285842032
+      VFX Blood Batch 1_SpriteSheetPacked_140: -1607741690
+      VFX Blood Batch 1_SpriteSheetPacked_141: 1478541391
+      VFX Blood Batch 1_SpriteSheetPacked_142: 457382188
+      VFX Blood Batch 1_SpriteSheetPacked_143: -1818738200
+      VFX Blood Batch 1_SpriteSheetPacked_144: 682128061
+      VFX Blood Batch 1_SpriteSheetPacked_145: 1574855722
+      VFX Blood Batch 1_SpriteSheetPacked_146: -891393520
+      VFX Blood Batch 1_SpriteSheetPacked_147: 1553442014
+      VFX Blood Batch 1_SpriteSheetPacked_148: 161810528
+      VFX Blood Batch 1_SpriteSheetPacked_149: -868808542
+      VFX Blood Batch 1_SpriteSheetPacked_15: -1851790582
+      VFX Blood Batch 1_SpriteSheetPacked_150: -1526920132
+      VFX Blood Batch 1_SpriteSheetPacked_151: -181381110
+      VFX Blood Batch 1_SpriteSheetPacked_152: -287053497
+      VFX Blood Batch 1_SpriteSheetPacked_153: 2056997925
+      VFX Blood Batch 1_SpriteSheetPacked_154: 1554577510
+      VFX Blood Batch 1_SpriteSheetPacked_155: -784531286
+      VFX Blood Batch 1_SpriteSheetPacked_156: -557554195
+      VFX Blood Batch 1_SpriteSheetPacked_157: 1913929127
+      VFX Blood Batch 1_SpriteSheetPacked_158: 50932696
+      VFX Blood Batch 1_SpriteSheetPacked_159: 581648080
+      VFX Blood Batch 1_SpriteSheetPacked_16: 2094735287
+      VFX Blood Batch 1_SpriteSheetPacked_160: -1012691443
+      VFX Blood Batch 1_SpriteSheetPacked_161: -1206550592
+      VFX Blood Batch 1_SpriteSheetPacked_162: -1518362300
+      VFX Blood Batch 1_SpriteSheetPacked_163: -37929908
+      VFX Blood Batch 1_SpriteSheetPacked_164: -992138638
+      VFX Blood Batch 1_SpriteSheetPacked_165: -969327345
+      VFX Blood Batch 1_SpriteSheetPacked_166: 1887449983
+      VFX Blood Batch 1_SpriteSheetPacked_167: -745368310
+      VFX Blood Batch 1_SpriteSheetPacked_168: -2008294808
+      VFX Blood Batch 1_SpriteSheetPacked_169: 1251944759
+      VFX Blood Batch 1_SpriteSheetPacked_17: -442883684
+      VFX Blood Batch 1_SpriteSheetPacked_170: 1013854070
+      VFX Blood Batch 1_SpriteSheetPacked_171: 1474539781
+      VFX Blood Batch 1_SpriteSheetPacked_172: 1605879439
+      VFX Blood Batch 1_SpriteSheetPacked_173: 74623809
+      VFX Blood Batch 1_SpriteSheetPacked_174: 175576021
+      VFX Blood Batch 1_SpriteSheetPacked_175: -107486639
+      VFX Blood Batch 1_SpriteSheetPacked_176: 17426096
+      VFX Blood Batch 1_SpriteSheetPacked_177: -1377158287
+      VFX Blood Batch 1_SpriteSheetPacked_178: -118778439
+      VFX Blood Batch 1_SpriteSheetPacked_179: 1882707729
+      VFX Blood Batch 1_SpriteSheetPacked_18: -446078398
+      VFX Blood Batch 1_SpriteSheetPacked_180: -1393699300
+      VFX Blood Batch 1_SpriteSheetPacked_181: -898246930
+      VFX Blood Batch 1_SpriteSheetPacked_182: 2033560549
+      VFX Blood Batch 1_SpriteSheetPacked_183: 1239343727
+      VFX Blood Batch 1_SpriteSheetPacked_184: 240178119
+      VFX Blood Batch 1_SpriteSheetPacked_185: 180491925
+      VFX Blood Batch 1_SpriteSheetPacked_186: 585672731
+      VFX Blood Batch 1_SpriteSheetPacked_187: -561543441
+      VFX Blood Batch 1_SpriteSheetPacked_188: 635459177
+      VFX Blood Batch 1_SpriteSheetPacked_189: -1280946320
+      VFX Blood Batch 1_SpriteSheetPacked_19: 1976362823
+      VFX Blood Batch 1_SpriteSheetPacked_190: 727616974
+      VFX Blood Batch 1_SpriteSheetPacked_191: 152993628
+      VFX Blood Batch 1_SpriteSheetPacked_192: -2060156935
+      VFX Blood Batch 1_SpriteSheetPacked_193: -1242971405
+      VFX Blood Batch 1_SpriteSheetPacked_194: 1572844388
+      VFX Blood Batch 1_SpriteSheetPacked_195: -1451670353
+      VFX Blood Batch 1_SpriteSheetPacked_196: -1017556871
+      VFX Blood Batch 1_SpriteSheetPacked_197: -286825702
+      VFX Blood Batch 1_SpriteSheetPacked_198: -78064063
+      VFX Blood Batch 1_SpriteSheetPacked_199: -1848732024
+      VFX Blood Batch 1_SpriteSheetPacked_2: -546044899
+      VFX Blood Batch 1_SpriteSheetPacked_20: -545315927
+      VFX Blood Batch 1_SpriteSheetPacked_200: 2120447766
+      VFX Blood Batch 1_SpriteSheetPacked_201: 2071859343
+      VFX Blood Batch 1_SpriteSheetPacked_202: -581473161
+      VFX Blood Batch 1_SpriteSheetPacked_203: -1903672785
+      VFX Blood Batch 1_SpriteSheetPacked_204: 1862987771
+      VFX Blood Batch 1_SpriteSheetPacked_205: 209855782
+      VFX Blood Batch 1_SpriteSheetPacked_206: -1223956437
+      VFX Blood Batch 1_SpriteSheetPacked_207: -1781276609
+      VFX Blood Batch 1_SpriteSheetPacked_208: 1709525144
+      VFX Blood Batch 1_SpriteSheetPacked_209: -1121091996
+      VFX Blood Batch 1_SpriteSheetPacked_21: -668049236
+      VFX Blood Batch 1_SpriteSheetPacked_210: 922896784
+      VFX Blood Batch 1_SpriteSheetPacked_211: -567335053
+      VFX Blood Batch 1_SpriteSheetPacked_212: -900048377
+      VFX Blood Batch 1_SpriteSheetPacked_213: -1826293479
+      VFX Blood Batch 1_SpriteSheetPacked_214: -2086860255
+      VFX Blood Batch 1_SpriteSheetPacked_215: 216238170
+      VFX Blood Batch 1_SpriteSheetPacked_216: -390564791
+      VFX Blood Batch 1_SpriteSheetPacked_217: -1809441618
+      VFX Blood Batch 1_SpriteSheetPacked_218: -1894462752
+      VFX Blood Batch 1_SpriteSheetPacked_219: -441695151
+      VFX Blood Batch 1_SpriteSheetPacked_22: 735761685
+      VFX Blood Batch 1_SpriteSheetPacked_220: 777231712
+      VFX Blood Batch 1_SpriteSheetPacked_221: 841468772
+      VFX Blood Batch 1_SpriteSheetPacked_222: -1753996022
+      VFX Blood Batch 1_SpriteSheetPacked_223: 1600197400
+      VFX Blood Batch 1_SpriteSheetPacked_224: -176298107
+      VFX Blood Batch 1_SpriteSheetPacked_225: 1994797748
+      VFX Blood Batch 1_SpriteSheetPacked_226: -205313866
+      VFX Blood Batch 1_SpriteSheetPacked_227: -1798629276
+      VFX Blood Batch 1_SpriteSheetPacked_228: -1688220768
+      VFX Blood Batch 1_SpriteSheetPacked_229: -256884973
+      VFX Blood Batch 1_SpriteSheetPacked_23: 322490554
+      VFX Blood Batch 1_SpriteSheetPacked_230: 632045221
+      VFX Blood Batch 1_SpriteSheetPacked_231: 833813829
+      VFX Blood Batch 1_SpriteSheetPacked_232: -2036356169
+      VFX Blood Batch 1_SpriteSheetPacked_233: -1904168868
+      VFX Blood Batch 1_SpriteSheetPacked_234: -1666317834
+      VFX Blood Batch 1_SpriteSheetPacked_235: -1826269893
+      VFX Blood Batch 1_SpriteSheetPacked_236: -394668675
+      VFX Blood Batch 1_SpriteSheetPacked_237: 200742348
+      VFX Blood Batch 1_SpriteSheetPacked_238: 337775786
+      VFX Blood Batch 1_SpriteSheetPacked_239: 208529737
+      VFX Blood Batch 1_SpriteSheetPacked_24: -1541594520
+      VFX Blood Batch 1_SpriteSheetPacked_240: 1986595139
+      VFX Blood Batch 1_SpriteSheetPacked_241: -464724715
+      VFX Blood Batch 1_SpriteSheetPacked_242: 1413189428
+      VFX Blood Batch 1_SpriteSheetPacked_243: -927919642
+      VFX Blood Batch 1_SpriteSheetPacked_244: -603722758
+      VFX Blood Batch 1_SpriteSheetPacked_245: -924316021
+      VFX Blood Batch 1_SpriteSheetPacked_246: 264239840
+      VFX Blood Batch 1_SpriteSheetPacked_247: -2000783401
+      VFX Blood Batch 1_SpriteSheetPacked_248: 1588844114
+      VFX Blood Batch 1_SpriteSheetPacked_249: 795790681
+      VFX Blood Batch 1_SpriteSheetPacked_25: 820902951
+      VFX Blood Batch 1_SpriteSheetPacked_250: 1575461348
+      VFX Blood Batch 1_SpriteSheetPacked_251: -695210068
+      VFX Blood Batch 1_SpriteSheetPacked_26: -2115338458
+      VFX Blood Batch 1_SpriteSheetPacked_27: 1780408139
+      VFX Blood Batch 1_SpriteSheetPacked_28: 878605032
+      VFX Blood Batch 1_SpriteSheetPacked_29: -981768368
+      VFX Blood Batch 1_SpriteSheetPacked_3: 841275149
+      VFX Blood Batch 1_SpriteSheetPacked_30: -1167332437
+      VFX Blood Batch 1_SpriteSheetPacked_31: 629327512
+      VFX Blood Batch 1_SpriteSheetPacked_32: -1731781803
+      VFX Blood Batch 1_SpriteSheetPacked_33: 238487077
+      VFX Blood Batch 1_SpriteSheetPacked_34: -686268142
+      VFX Blood Batch 1_SpriteSheetPacked_35: -1897397699
+      VFX Blood Batch 1_SpriteSheetPacked_36: -1792378292
+      VFX Blood Batch 1_SpriteSheetPacked_37: -1546328084
+      VFX Blood Batch 1_SpriteSheetPacked_38: 2078155140
+      VFX Blood Batch 1_SpriteSheetPacked_39: -302350966
+      VFX Blood Batch 1_SpriteSheetPacked_4: -1252291506
+      VFX Blood Batch 1_SpriteSheetPacked_40: 814037131
+      VFX Blood Batch 1_SpriteSheetPacked_41: -617936936
+      VFX Blood Batch 1_SpriteSheetPacked_42: -100736036
+      VFX Blood Batch 1_SpriteSheetPacked_43: -1098287547
+      VFX Blood Batch 1_SpriteSheetPacked_44: 817596403
+      VFX Blood Batch 1_SpriteSheetPacked_45: 1070564135
+      VFX Blood Batch 1_SpriteSheetPacked_46: 255967751
+      VFX Blood Batch 1_SpriteSheetPacked_47: -384584276
+      VFX Blood Batch 1_SpriteSheetPacked_48: -1612008045
+      VFX Blood Batch 1_SpriteSheetPacked_49: 514293533
+      VFX Blood Batch 1_SpriteSheetPacked_5: -1501864124
+      VFX Blood Batch 1_SpriteSheetPacked_50: -518549630
+      VFX Blood Batch 1_SpriteSheetPacked_51: -1755996584
+      VFX Blood Batch 1_SpriteSheetPacked_52: -1218719733
+      VFX Blood Batch 1_SpriteSheetPacked_53: 898579297
+      VFX Blood Batch 1_SpriteSheetPacked_54: -2064590474
+      VFX Blood Batch 1_SpriteSheetPacked_55: 1458773972
+      VFX Blood Batch 1_SpriteSheetPacked_56: -308555911
+      VFX Blood Batch 1_SpriteSheetPacked_57: -1276098820
+      VFX Blood Batch 1_SpriteSheetPacked_58: -435562370
+      VFX Blood Batch 1_SpriteSheetPacked_59: 1012258218
+      VFX Blood Batch 1_SpriteSheetPacked_6: -1906886730
+      VFX Blood Batch 1_SpriteSheetPacked_60: 148492065
+      VFX Blood Batch 1_SpriteSheetPacked_61: -256040883
+      VFX Blood Batch 1_SpriteSheetPacked_62: 204106188
+      VFX Blood Batch 1_SpriteSheetPacked_63: -1752192477
+      VFX Blood Batch 1_SpriteSheetPacked_64: 702728636
+      VFX Blood Batch 1_SpriteSheetPacked_65: 97173136
+      VFX Blood Batch 1_SpriteSheetPacked_66: 633145231
+      VFX Blood Batch 1_SpriteSheetPacked_67: 1880356951
+      VFX Blood Batch 1_SpriteSheetPacked_68: -1140209101
+      VFX Blood Batch 1_SpriteSheetPacked_69: 1150876131
+      VFX Blood Batch 1_SpriteSheetPacked_7: 1555298873
+      VFX Blood Batch 1_SpriteSheetPacked_70: 2061102036
+      VFX Blood Batch 1_SpriteSheetPacked_71: 471452505
+      VFX Blood Batch 1_SpriteSheetPacked_72: -1395733992
+      VFX Blood Batch 1_SpriteSheetPacked_73: -1421262609
+      VFX Blood Batch 1_SpriteSheetPacked_74: -1027302016
+      VFX Blood Batch 1_SpriteSheetPacked_75: 1288758365
+      VFX Blood Batch 1_SpriteSheetPacked_76: -304051519
+      VFX Blood Batch 1_SpriteSheetPacked_77: 1064169912
+      VFX Blood Batch 1_SpriteSheetPacked_78: 1452794460
+      VFX Blood Batch 1_SpriteSheetPacked_79: 810083428
+      VFX Blood Batch 1_SpriteSheetPacked_8: -1034195935
+      VFX Blood Batch 1_SpriteSheetPacked_80: -1961630697
+      VFX Blood Batch 1_SpriteSheetPacked_81: 574644612
+      VFX Blood Batch 1_SpriteSheetPacked_82: -1340773509
+      VFX Blood Batch 1_SpriteSheetPacked_83: -2086343695
+      VFX Blood Batch 1_SpriteSheetPacked_84: -358594570
+      VFX Blood Batch 1_SpriteSheetPacked_85: -218057577
+      VFX Blood Batch 1_SpriteSheetPacked_86: -1284298964
+      VFX Blood Batch 1_SpriteSheetPacked_87: 324567517
+      VFX Blood Batch 1_SpriteSheetPacked_88: -873561268
+      VFX Blood Batch 1_SpriteSheetPacked_89: -1846869348
+      VFX Blood Batch 1_SpriteSheetPacked_9: 733961074
+      VFX Blood Batch 1_SpriteSheetPacked_90: 1178680132
+      VFX Blood Batch 1_SpriteSheetPacked_91: -2013632377
+      VFX Blood Batch 1_SpriteSheetPacked_92: 1483797062
+      VFX Blood Batch 1_SpriteSheetPacked_93: -1390878310
+      VFX Blood Batch 1_SpriteSheetPacked_94: -146812785
+      VFX Blood Batch 1_SpriteSheetPacked_95: 359926887
+      VFX Blood Batch 1_SpriteSheetPacked_96: -665533366
+      VFX Blood Batch 1_SpriteSheetPacked_97: 2145567388
+      VFX Blood Batch 1_SpriteSheetPacked_98: -1535761225
+      VFX Blood Batch 1_SpriteSheetPacked_99: 1528890965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
