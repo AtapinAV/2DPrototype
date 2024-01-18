@@ -56,7 +56,6 @@ public abstract class BotComponent : MonoBehaviour, IDamageBot
             _animatorBot.SetTrigger("AttackBot");
             _clipAttack.Play();
             _isRecharged = false;
-
             StartCoroutine(AttackCoolDown());
         }
     }
@@ -80,6 +79,7 @@ public abstract class BotComponent : MonoBehaviour, IDamageBot
         {
             _clipDead.Play();
             _animatorBot.SetTrigger("DeathBot");
+            enabled = false;
             Destroy(gameObject, 1f);
         }
     }
