@@ -7,7 +7,6 @@ public class PlayerController : PlayerAComponent
     private bool _isDash;
 
     private SpriteRenderer _spriteRenderer;
-    private Rigidbody2D _rb;
     private float _dashEffectTimeActive;
 
     [SerializeField] private float _dashCoolDownTime;
@@ -28,7 +27,6 @@ public class PlayerController : PlayerAComponent
     protected override void Start()
     {
         base.Start();
-        _rb = GetComponent<Rigidbody2D>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
     }
     private void Update()

@@ -10,6 +10,7 @@ public class PlayerDeath : PlayerAComponent, IDamage
     [SerializeField] private AudioSource _playerOnDamage;
     [SerializeField] private TextMeshProUGUI _hpPlayerText;
     [SerializeField] private GameObject _prefabBloom;
+    [SerializeField] private Collider2D _playerCollider;
 
     private PlayerController _playerController;
     private PlayerAttak _playerAttak;
@@ -35,6 +36,8 @@ public class PlayerDeath : PlayerAComponent, IDamage
             _animator.SetTrigger("Death");
             _playerController.enabled = false;
             _playerAttak.enabled = false;
+            _playerCollider.enabled = false;
+            _rb.constraints = (RigidbodyConstraints2D)2;
 
             StartCoroutine(PlayerDie());
         }

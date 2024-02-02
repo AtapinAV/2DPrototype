@@ -46,9 +46,12 @@ public class PlayerAttak : PlayerAComponent
     }
     protected void OnAttack(int attackDamage)
     {
-        Collider2D collider2D = Physics2D.OverlapCircle(transform.position, _attackRange, _botMask);
-        if (collider2D == null) { return; }
-        else if (collider2D.TryGetComponent(out IDamageBot idamageBot)) { idamageBot.GetDamageBot(attackDamage); }
+        Collider2D[] collider2D = Physics2D.OverlapCircleAll(transform.position, _attackRange, _botMask);
+        for (int i = 0; i < collider2D.Length; i++)
+        {
+            if (collider2D == null) { return; }
+            else if (collider2D[i].TryGetComponent(out IDamageBot idamageBot)) { idamageBot.GetDamageBot(attackDamage); }
+        }
     }
     private IEnumerator AttackCoolDown1()
     {

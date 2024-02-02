@@ -20,20 +20,26 @@ public abstract class BotComponent : MonoBehaviour, IDamageBot
     public int HpBot { get { return _hpBot; } }
 
     protected bool _isRecharged;
+    protected bool _isBossAttack;
     protected Animator _animatorBot;
     protected SpriteRenderer _rendererBot;
     protected PlayerAComponent _player;
+    protected Rigidbody2D _rbBot;
+    protected Collider2D _colliderBot;
     protected  void Awake()
     {
         _isRecharged = true;
+        _isBossAttack = true;
     }
     protected  void Start()
     {
         _animatorBot = GetComponent<Animator>();
         _rendererBot = GetComponent<SpriteRenderer>();
+        _colliderBot = GetComponent<Collider2D>();
+        _rbBot = GetComponent<Rigidbody2D>();
         _player = FindObjectOfType<PlayerAComponent>();
     }
-    protected  void Update()
+    protected virtual void Update()
     {
         _dis = Vector2.Distance(_player.transform.position, transform.position);
         FlipBot();
@@ -77,9 +83,11 @@ public abstract class BotComponent : MonoBehaviour, IDamageBot
         Instantiate(_prefabDamageEffect, transform.position, Quaternion.identity);
         if (_hpBot <= 0)
         {
+            transform.position = new Vector3(transform.position.x, transform.position.y -0.7f, transform.position.z);
             _clipDead.Play();
             _animatorBot.SetTrigger("DeathBot");
-            enabled = false;
+            _colliderBot.enabled = false;
+            _rbBot.constraints = (RigidbodyConstraints2D)2;
             Destroy(gameObject, 1f);
         }
     }
