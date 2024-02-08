@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Runtime.InteropServices;
 using TMPro;
 using UnityEngine;
 
@@ -8,6 +9,8 @@ public class ScriptBoss : MonoBehaviour
     [SerializeField] private BotComponent _boss;
     [SerializeField] private TextMeshProUGUI _hpBoss;
     [SerializeField] private GameObject _hpTextBoss;
+    [DllImport("__Internal")]
+    private static extern void ReclamaData();
 
     private void Update()
     {
@@ -27,5 +30,6 @@ public class ScriptBoss : MonoBehaviour
         yield return new WaitForSeconds(2.5f);
         _nextLevel.SetActive(true);
         Time.timeScale = 0f;
+        ReclamaData();
     }
 }
